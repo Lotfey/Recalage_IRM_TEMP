@@ -1,0 +1,97 @@
+
+   500  function evaluations used for sampling
+ *** the local minimum no. 1 :      148.14496   nfev=120
+      148.14496
+        1.1050461     0.99476237      2.7838703
+ sample point added to the cluster no. 1
+      240.17581
+        2.1918394     0.65736869      3.7061678
+ new seed point added to the cluster no 1 nfev= 120
+      148.14496
+       0.86428419     0.87343974      5.0068667
+ new seed point added to the cluster no 1 nfev= 120
+      148.14496
+       0.86428419     0.87343974      5.0068667
+ new seed point added to the cluster no 1 nfev= 120
+      148.14496
+       0.86428419     0.87343974      5.0068667
+ *** the local minimum no. 2 :       141.7097   nfev=105
+       141.7097
+        1.1918483     0.92410066      1.2038839
+ new seed point added to the cluster no 2 nfev= 139
+      141.70753
+       0.97842341      3.5517441      15.945311 *** improvement on the local minimum no. 2 :   141.70970030 for   141.70753312
+      141.70753
+        1.1965191     0.92410224      1.2102556
+ new seed point added to the cluster no 2 nfev= 139
+      141.70753
+       0.97842341      3.5517441      15.945311
+ new seed point added to the cluster no 2 nfev= 139
+      141.70753
+       0.97842341      3.5517441      15.945311
+ new seed point added to the cluster no 2 nfev= 139
+      141.70753
+       0.97842341      3.5517441      15.945311
+   500  function evaluations used for sampling
+ sample point added to the cluster no.  1
+      192.45075
+       0.64271981      0.9765923      5.2833644
+ sample point added to the cluster no.  1
+      195.41621
+       0.86733604     0.83559679      5.8485672
+ new seed point added to the cluster no 2 nfev= 136
+      141.70758
+        1.1224708      1.5698721       9.655446
+ sample point added to the cluster no. 2
+      276.48779
+          1.18717      2.2498245      9.4119083
+ sample point added to the cluster no. 2
+      276.48779
+          1.18717      2.2498245      9.4119083
+ sample point added to the cluster no. 2
+      276.48779
+          1.18717      2.2498245      9.4119083
+ sample point added to the cluster no. 2
+      276.48779
+          1.18717      2.2498245      9.4119083
+ sample point added to the cluster no. 2
+      331.55409
+       0.36866359      3.1061739      9.2397839
+ new seed point added to the cluster no 2 nfev= 136
+      141.70758
+        1.1224708      1.5698721       9.655446
+ new seed point added to the cluster no 2 nfev= 136
+      141.70758
+        1.1224708      1.5698721       9.655446
+ new seed point added to the cluster no 2 nfev= 136
+      141.70758
+        1.1224708      1.5698721       9.655446
+ new seed point added to the cluster no 2 nfev= 115
+      141.70752
+        1.3269448     0.51881466      11.915036 *** improvement on the local minimum no. 2 :   141.70753312 for   141.70752490
+      141.70752
+        1.1959968     0.92545999      1.2094695
+ new seed point added to the cluster no 2 nfev= 115
+      141.70752
+        1.3269448     0.51881466      11.915036
+ new seed point added to the cluster no 2 nfev= 115
+      141.70752
+        1.3269448     0.51881466      11.915036
+ new seed point added to the cluster no 2 nfev= 115
+      141.70752
+        1.3269448     0.51881466      11.915036
+
+
+
+ local minima found: 
+
+
+ F(x)=      141.70752
+  
+   X =      1.1959968     0.92545999      1.2094695
+ F(x)=      148.14496
+  
+   X =      1.1050461     0.99476237      2.7838703
+
+ normal termination after 3145 function evaluations 
+
